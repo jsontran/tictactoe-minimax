@@ -1,8 +1,8 @@
 # tictactoe-minimax
-A Python implementation of Minimax AI Algorithm with Alpha-Beta pruning in the Tic-Tac-Toe game.
+A Python implementation of Minimax AI Algorithm with Alpha-Beta pruning in Tic-Tac-Toe.
 
 ## Tic Tac Toe
-It is a game where the two players take turns placing their symbols (either X's or O's) to achieve three in a row. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. In this version, the player will be against the computer (which uses the Minimax Algorithm with Alpha-Beta Pruning). 
+The classic game of Tic Tac Toe, in this version, the player will be against the computer (which uses the Minimax Algorithm with Alpha-Beta Pruning). 
 
 #### Game Walkthrough
 Initially, the game will ask if the player would like to go first, if they do not, the computer (O's) will make the first move.   
